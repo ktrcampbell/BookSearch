@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727611051723",
+    "firebase_url": "https://booksearch-9a107.firebaseio.com",
+    "project_id": "booksearch-9a107",
+    "storage_bucket": "booksearch-9a107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727611051723:android:11776d31b0e31fd731d54e",
+        "android_client_info": {
+          "package_name": "com.bigbang.booksearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727611051723-no1tquf2o8frjuq1ggisnfampedtiu8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigbang.booksearch",
+            "certificate_hash": "58c0c5bb0f79825778c086db3b7034cf7daae762"
+          }
+        },
+        {
+          "client_id": "727611051723-009u86tn6j164tuljo5fglju9b0rja0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnpfZmBD01rnWUOLUGShsbNnSJ3s2mSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727611051723-009u86tn6j164tuljo5fglju9b0rja0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
