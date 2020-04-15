@@ -6,10 +6,14 @@ import com.bigbang.booksearch.util.Constants.Companion.TAG
 
 class DebugLogger {
 
-    fun logError(throwable: Throwable){
-        Log.d(TAG, ERROR_PREFIX + throwable.localizedMessage)
-    }
-    fun logDebug(message: String){
-        Log.d(TAG, message)
+    companion object {
+        fun logError(throwable: Throwable)
+        {
+            Log.d(TAG, ERROR_PREFIX + throwable.localizedMessage)
+        }
+
+        fun logDebug(message: String) {
+            Log.d(TAG, message)
+        }
     }
 }
